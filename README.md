@@ -105,7 +105,7 @@ Order Success
   https://lnkd.in/d3NxZdQA
 
 🎥 **Demo Video:**
-PASTE_YOUR_VIDEO_LINK_HERE
+https://github.com/pamudimaleesha/FoodGo-Food-Delivery-UIUX/blob/main/recording/bunfigmawireframe.mp4
 
 ## 📚 What I Learned
 
