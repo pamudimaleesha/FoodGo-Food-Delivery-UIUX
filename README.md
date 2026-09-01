@@ -102,7 +102,7 @@ Order Success
 ## 🎥 Prototype & Demo
 
 🔗 **Figma Prototype:**
-PASTE_YOUR_FIGMA_PROTOTYPE_LINK_HERE
+  https://lnkd.in/d3NxZdQA
 
 🎥 **Demo Video:**
 PASTE_YOUR_VIDEO_LINK_HERE
@@ -128,8 +128,8 @@ HNDIT – Higher National Diploma in Information Technology
 
 ### Connect with me
 
-* LinkedIn: PASTE_YOUR_LINKEDIN_LINK
-* GitHub: PASTE_YOUR_GITHUB_PROFILE_LINK
+* LinkedIn: pamudirohitha
+* GitHub: pamudimaleesha
 
 ---
 
